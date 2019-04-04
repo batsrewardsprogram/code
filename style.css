@@ -3,3 +3,7 @@ tbody>tr>:nth-child(2){
  width:200px;
  text-align:center;
 }
+tbody>:nth-child(2){
+ color:red; 
+ font-weight: bold;
+}
