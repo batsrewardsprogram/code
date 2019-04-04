@@ -1,0 +1,5 @@
+tbody>tr>:nth-child(2){
+ color:red;
+ width:200px;
+ text-align:center;
+}
